@@ -1,0 +1,7 @@
+name = "bot"
+type = "javascript"
+
+compatibility_date = "2024-08-13"
+node_compat = true
+
+
